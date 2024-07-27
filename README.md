@@ -1,13 +1,10 @@
-<h1 align="center">Hi there 👋, I'm Skeleton ⚡</h1>
-<h3 align="center">I am a Vietnamese progammer. I often develop projects that make gaming easier. I have contributed to creating popular game acceleration software that you may use. They are: GEARUP Booster, Nox Security, Nox Booster.</h3>
+<h1 align="center">Hi there 👋, I'm kudodevOP ⚡</h1>
 
-- 🔭 I’m currently develop Accessibility for Free Fire auto red [Accessibility for Free Fire auto red](https://github.com/SkeletonHub25/FreeFireAccessibility)
-
-- 💬 Ask me about [SkeletonHub.dev](SkeletonHub.dev)
+- 💬 Ask me about [ophub.net](ophub.net)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/skeletondev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="skeletondev" height="30" width="40" /></a>
+<a href="https://www.ophub.net/contacts.php" target="blank"><img align="center" src="https://OPhub.net/assets/ophubnet.svg" alt="OPHub Logo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
